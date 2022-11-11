@@ -64,7 +64,7 @@ body {
 .side {
 	position:fixed;
 	left:0;
-	top:50;
+	top:50px;
 	list-style:none;
 	background-color:#eee;
 	padding-right:1cm;
@@ -83,7 +83,7 @@ nav li {
 .side2 {
 	position:fixed;
 	right:0;
-	top:50;
+	top:50px;
 	list-style:none;
 	background-color:#eee;
 	padding-right:1cm;
