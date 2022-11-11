@@ -58,45 +58,6 @@ body {
 
 
 
-.lastliofnav {
-
-	float:right;
-	position:fixed;
-	right:3cm;
-	background-color:#555;
-	background-bend-mode:lighten;
-	background-color:rgba(12, 12, 12, 0.6);
-	display:inline-block;
-	width:300px;
-
-
-}
-
-
-
-
-
-
-.lastliofnav li {
-
-	display:inline-block;
-	width:240px;
-	border:1px solid black;
-	
-
-}
-
-
-
-
-
-
-.lastliofnav:hover {
-	overflow-y:scroll;
-	height:500px;
-
-}
-
 
 
 
