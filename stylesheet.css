@@ -80,7 +80,7 @@ nav li {
 }
 
 
-.side {
+.sidebar {
 	overflow-y:scroll;
 	
 }
@@ -98,10 +98,7 @@ nav li {
 	
 }
 
-.side2 {
-	overflow-y:scroll;
-	
-}
+
 
 .sidebar li {
 	font-size: 18px;
