@@ -37,7 +37,7 @@ body {
 	margin:0;
 	padding:0;
 	background-image:linear-gradient(#fff, #eeeeff, #ddddff, #ccccff, #ddddff, #eeeeff);
-	font-size:20px;
+
 
 }
 
@@ -66,12 +66,12 @@ body {
 	position:fixed;
 	left:0;
 	top:50px;
+		bottom:0px;
 	list-style:none;
 	background-color:#eee;
 	padding-right:1cm;
 	padding:20px 1cm;
 	width:6cm;
-	bottom:0;
 	font-size:18px;
 }
 
@@ -86,14 +86,14 @@ nav li {
 
 .side2 {
 	position:fixed;
-	right:0;
+	right:0;	
+	bottom:0px;
 	top:50px;
 	list-style:none;
 	background-color:#eee;
 	padding-right:1cm;
 	padding:20px 1cm;
 	width:6cm;
-	bottom:0;
 	font-size: 18px;
 	
 }
@@ -130,7 +130,7 @@ table, th, tr, td {
 }
 
 .content {
-	font-size:20px;
+	font-size:18px;
 }
 
 .side li, .side2 li {
