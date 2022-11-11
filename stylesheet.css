@@ -71,6 +71,7 @@ body {
 	padding:20px 1cm;
 	width:6cm;
 	bottom:0;
+	font-size:18px;
 }
 
 nav li {
@@ -81,6 +82,7 @@ nav li {
 	overflow-y:scroll;
 	height:600px;
 }
+
 .side2 {
 	position:fixed;
 	right:0;
@@ -91,6 +93,7 @@ nav li {
 	padding:20px 1cm;
 	width:6cm;
 	bottom:0;
+	font-size: 18px;
 	
 }
 
