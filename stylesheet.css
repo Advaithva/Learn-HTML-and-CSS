@@ -94,13 +94,17 @@ nav li {
 	padding-right:1cm;
 	padding:20px 1cm;
 	width:6cm;
-	font-size: 18px;
+	
 	
 }
 
 .side2 {
 	overflow-y:scroll;
 	
+}
+
+.side1 li, .side2 li {
+	font-size: 18px;
 }
 
 
