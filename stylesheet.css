@@ -70,6 +70,7 @@ body {
 	padding-right:1cm;
 	padding:20px 1cm;
 	width:6cm;
+	bottom:0;
 }
 
 nav li {
@@ -89,7 +90,7 @@ nav li {
 	padding-right:1cm;
 	padding:20px 1cm;
 	width:6cm;
-	bottom:5;
+	bottom:0;
 	
 }
 
