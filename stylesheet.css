@@ -66,9 +66,9 @@ body {
 	position:fixed;
 	left:0;
 	top:50px;
-		bottom:0px;
+	bottom:0px;
 	list-style:none;
-	background-color:#eee;
+	background-color:#ddd;
 	padding-right:1cm;
 	padding:20px 1cm;
 	width:6cm;
@@ -90,7 +90,7 @@ nav li {
 	bottom:0px;
 	top:50px;
 	list-style:none;
-	background-color:#eee;
+	background-color:#ddd;
 	padding-right:1cm;
 	padding:20px 1cm;
 	width:6cm;
