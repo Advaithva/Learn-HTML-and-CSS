@@ -1,0 +1,152 @@
+nav {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    position: center;
+    color: #fff;
+    padding: 0 20px;
+    width: 100%;
+    background-blend-mode:lighten;
+    background-color: rgba(11,10, 15, 0.7);
+    position:fixed;
+    top:0;
+    left:0;
+
+}
+
+
+
+
+
+
+
+nav li {
+	float:left;	
+	padding:0.2cm 0.5cm;
+	display: inline-block;
+	text-align: center;
+
+}
+
+
+
+
+
+
+body {
+	margin:0;
+	padding:0;
+	background-image:linear-gradient(#fff, #eeeeff, #ddddff, #ccccff, #ddddff, #eeeeff);
+
+}
+
+
+
+
+
+.heading {
+	background:url(https://img.freepik.com/premium-vector/geometric-background-japanese-style_23-2148463885.jpg?w=740);
+	font-size:50px;
+	padding:3cm;	
+	background-color:rgba(250, 250, 250, 0.5);
+	background-blend-mode:lighten;
+	color:#0000ff;
+}
+
+
+
+
+
+
+
+
+
+.side {
+	position:fixed;
+	left:0;
+	top:50px;
+	list-style:none;
+	background-color:#eee;
+	padding-right:1cm;
+	padding:20px 1cm;
+	width:6cm;
+	bottom:0;
+	font-size:18px;
+}
+
+nav li {
+	color:#fff;
+}
+
+.side {
+	overflow-y:scroll;
+	height:600px;
+}
+
+.side2 {
+	position:fixed;
+	right:0;
+	top:50px;
+	list-style:none;
+	background-color:#eee;
+	padding-right:1cm;
+	padding:20px 1cm;
+	width:6cm;
+	bottom:0;
+	font-size: 18px;
+	
+}
+
+.side2 {
+	overflow-y:scroll;
+	height:600px;
+}
+
+
+.mainhead {
+	padding-top:25px;
+}
+
+
+.content {
+	margin:0 6.5cm;
+
+}
+
+.image {
+	margin:25px;
+	height;160px;
+	width:280px;
+
+}
+
+table, th, tr, td {
+	border:solid black 2px;
+	border-collapse:collapse;
+	padding:0.5cm;
+	font-size:20px;
+
+}
+
+.content {
+	font-size:20px;
+}
+
+.side li, .side2 li {
+	color:#000;
+}
+.side li:hover, .side2 li:hover {
+	color:#2255ff;
+}
+
+.sideheading:hover {
+	color:#000;
+}
+	
+
+
+table tr th {
+	text-align:center;
+}
+
+
